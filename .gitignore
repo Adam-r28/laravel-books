@@ -12,3 +12,8 @@ npm-debug.log
 yarn-error.log
 /.idea
 /.vscode
+/public/css
+/public/js
+/public/mix-manifest.json
+/public/mix.js.map
+# do not commit pubic files, only source files. Others can compile it by themselves.
